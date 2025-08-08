@@ -22,7 +22,7 @@ function Timeline() {
             <h3 className="vertical-timeline-element-title">Software Developer</h3>
             <h4 className="vertical-timeline-element-subtitle">Information Management Group, IIT Roorkee</h4>
             <p>
-              Maintaining and enhancing the PIITR's official intranet portal used by 10,000+ students.
+              Maintaining and enhancing the IITR's official intranet portal used by 10,000+ students.
             </p>
           </VerticalTimelineElement>
 
