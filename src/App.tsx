@@ -2,9 +2,8 @@ import React, {useState, useEffect} from "react";
 import {
   Main,
   Timeline,
-  Expertise,
   Project,
-  Contact,
+  
   Navigation,
   Footer,
 } from "./components";
